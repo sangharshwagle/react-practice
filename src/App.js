@@ -6,6 +6,8 @@ import Pokemon from './containers/pokemon'
 import PokemonList from './containers/pokemonList'
 import error from './containers/error404'
 
+
+
 function App() {
   return (
     <div className="App">
